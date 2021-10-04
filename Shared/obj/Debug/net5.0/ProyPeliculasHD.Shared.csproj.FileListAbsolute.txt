@@ -1,0 +1,12 @@
+C:\ProyCicloIII\ProyPeliculasHD\Shared\bin\Debug\net5.0\ProyPeliculasHD.Shared.deps.json
+C:\ProyCicloIII\ProyPeliculasHD\Shared\bin\Debug\net5.0\ProyPeliculasHD.Shared.dll
+C:\ProyCicloIII\ProyPeliculasHD\Shared\bin\Debug\net5.0\ref\ProyPeliculasHD.Shared.dll
+C:\ProyCicloIII\ProyPeliculasHD\Shared\bin\Debug\net5.0\ProyPeliculasHD.Shared.pdb
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.csproj.AssemblyReference.cache
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.AssemblyInfoInputs.cache
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.AssemblyInfo.cs
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.csproj.CoreCompileInputs.cache
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.dll
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ref\ProyPeliculasHD.Shared.dll
+C:\ProyCicloIII\ProyPeliculasHD\Shared\obj\Debug\net5.0\ProyPeliculasHD.Shared.pdb

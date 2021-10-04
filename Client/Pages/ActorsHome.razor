@@ -1,0 +1,10 @@
+﻿@page "/serviceactors"
+@using ProyPeliculasHD.Client.Pages.Components
+@inject IServiceActor actor
+<ActorsComponent Actors = "Actors"></ActorsComponent>
+@code{
+    private List<Actor> Actors;
+    protected override void OnInitialized(){
+        Actors = actor.GetActors();
+        }
+}
